@@ -17,10 +17,10 @@ Sprite Cranberry Fanclub
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] Proper use of Markdown
+- [x] Proper use of Markdown
 - [x] A concise and compelling elevator pitch
-- [ ] Description of key features
-- [ ] Description of how you will use each technology
+- [x] Description of key features
+- [x] Description of how you will use each technology
 - [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
@@ -30,32 +30,33 @@ Do you enjoy the greatest drink the world, Sprite Winter Spiced Cranberry? Have 
 
 ### Design
 
-![image](https://github.com/user-attachments/assets/209187f1-bcbf-44af-ac8e-b6beb8cd888d)
+![image](https://github.com/user-attachments/assets/51ce3fec-5ed2-4b3d-85fa-02b0894cc4fb)
 
 
-```mermaid
-sequenceDiagram
-    actor You
-    actor Website
-    You->>Website: Replace this with your design
-```
+Diagram of Alan posting and Alice commenting on his post.
+![PXL_20250115_064032482 MP](https://github.com/user-attachments/assets/1be63f7f-d2f0-4b48-8b0b-8454865238c6)
+
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Create a secure account via HTTPS
+- Post describing your love for Sprite Winter-Spiced Cranberry
+- Browse other's posts
+- Search other's posts
+- Share posts
+- Like posts
+- Bond via comments on other's confessions of love
 
 ### Technologies
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Pages for login, post creation, and main feed that includes leaving a comment.
+- **CSS** - Create good styling that applies the appropriate branding, whitespace, consistent across devices and browsers, etc.
+- **React** - Allow for login, post liking, and sharing
+- **Service** - Backend with login and account manageament, content moderation
+- **DB/Login** - Store posts (with associated information) and user accounts securely. Require login to post, comment or like.
+- **WebSocket** - Update the main feed with current number of likes, comments and new posts
 
 ## 🚀 AWS deliverable
 
