@@ -17,10 +17,10 @@ Sprite Cranberry Fanclub
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [x] Proper use of Markdown
-- [x] A concise and compelling elevator pitch
-- [x] Description of key features
-- [x] Description of how you will use each technology
+- [x] Proper use of Markdown by adding new images with alternate text.
+- [x] A concise and compelling elevator pitch that expresses the excitement of this new product.
+- [x] Description of key features. TL;DR it behaves mostly like Reddit. I have other ideas in mind, but I don't want to commit to anything else yet.
+- [x] Description of how you will use each technology- Use each of them for their intended purpose. No fluff.
 - [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
@@ -30,11 +30,11 @@ Do you enjoy the greatest drink the world, Sprite Winter Spiced Cranberry? Have 
 
 ### Design
 
-![image](https://github.com/user-attachments/assets/51ce3fec-5ed2-4b3d-85fa-02b0894cc4fb)
+![A visual rough-draft of the homepage for the Sprite Cranberry Fanclub.](https://github.com/user-attachments/assets/51ce3fec-5ed2-4b3d-85fa-02b0894cc4fb)
 
 
-Diagram of Alan posting and Alice commenting on his post.
-![PXL_20250115_064032482 MP](https://github.com/user-attachments/assets/1be63f7f-d2f0-4b48-8b0b-8454865238c6)
+
+![Diagram of Alan posting and Alice commenting on his post.](https://github.com/user-attachments/assets/1be63f7f-d2f0-4b48-8b0b-8454865238c6)
 
 
 ### Key features
