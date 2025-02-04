@@ -15,5 +15,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## HTML Notes
 
 Pre reqs:
-Structure: https://codepen.io/OscarOscarFoxtrot/pen/QwLJgOe
-Inputs: https://codepen.io/OscarOscarFoxtrot/pen/emOavPY
+\nStructure: https://codepen.io/OscarOscarFoxtrot/pen/QwLJgOe
+\nInputs: https://codepen.io/OscarOscarFoxtrot/pen/emOavPY
