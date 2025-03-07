@@ -62,21 +62,21 @@ I am going to use the required technologies in the following ways.
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **Server deployed and accessible with custom domain name** - [My server link](https://yourdomainnamehere.click).
+- [x] **Server deployed and accessible with custom domain name** - spritecranberryfanclub.click
 
 ## 🚀 HTML deliverable
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
-- [ ] **Links** - I did not complete this part of the deliverable.
-- [ ] **Text** - I did not complete this part of the deliverable.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] **HTML pages** - I added pages for Home, new post, login, account information, about, and search.
+- [x] **Proper HTML element usage** - I used each element to the best of my knowledge.
+- [x] **Links** - I linked each page to each other using a Nav section.
+- [x] **Text** - I added text to describe where each section goes.
+- [x] **3rd party API placeholder** - I don't have a use for a 3rd party API at this time.
+- [x] **Images** - I will add images along with the CSS section so that the style works better together.
+- [x] **Login placeholder** - I added a 'your account' link and page that will display once logged in. Currently there as a placeholder.
+- [x] **DB data placeholder** - I added placeholder that shows post data and account data will be held by database.
+- [x] **WebSocket placeholder** - Likes and comments will be refreshed by Websocket.
 
 ## 🚀 CSS deliverable
 
